@@ -1,0 +1,8 @@
+D:\C## progra.II\ExamenUnoo\ExamenUnoo\bin\Debug\ExamenUnoo.exe.config
+D:\C## progra.II\ExamenUnoo\ExamenUnoo\bin\Debug\ExamenUnoo.exe
+D:\C## progra.II\ExamenUnoo\ExamenUnoo\bin\Debug\ExamenUnoo.pdb
+D:\C## progra.II\ExamenUnoo\ExamenUnoo\obj\Debug\ExamenUnoo.csproj.AssemblyReference.cache
+D:\C## progra.II\ExamenUnoo\ExamenUnoo\obj\Debug\ExamenUnoo.csproj.SuggestedBindingRedirects.cache
+D:\C## progra.II\ExamenUnoo\ExamenUnoo\obj\Debug\ExamenUnoo.csproj.CoreCompileInputs.cache
+D:\C## progra.II\ExamenUnoo\ExamenUnoo\obj\Debug\ExamenUnoo.exe
+D:\C## progra.II\ExamenUnoo\ExamenUnoo\obj\Debug\ExamenUnoo.pdb
